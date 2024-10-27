@@ -1,0 +1,4 @@
+interface Furniture
+{
+    void Operate();
+}
